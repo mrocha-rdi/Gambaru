@@ -1,0 +1,90 @@
+[Box:  - ::Army]
+X=2880
+Y=210
+
+[Box:  - ::constantes]
+X=20
+Y=465
+
+[Box:  - ::DemiOni]
+X=4272
+Y=40
+
+[Box:  - ::DemiOniKatana]
+X=28
+Y=40
+
+[Box:  - ::Engine]
+X=3102
+Y=40
+
+[Box:  - ::Fighter]
+X=2254
+Y=295
+
+[Box:  - ::frmdebug]
+X=225
+Y=465
+
+[Box:  - ::Katsome]
+X=1018
+Y=40
+
+[Box:  - ::Level]
+X=3525
+Y=125
+
+[Box:  - ::Mitsuake]
+X=2338
+Y=40
+
+[Box:  - ::MitsuakeKatana]
+X=468
+Y=40
+
+[Box:  - ::newtonbox]
+X=3305
+Y=210
+
+[Box:  - ::NewtonImport]
+X=3510
+Y=210
+
+[Box:  - ::oni]
+X=1898
+Y=40
+
+[Box:  - ::OniKatana]
+X=688
+Y=40
+
+[Box:  - ::Physic]
+X=3320
+Y=125
+
+[Box:  - ::physictypes]
+X=3070
+Y=295
+
+[Box:  - ::Sejiro]
+X=1458
+Y=40
+
+[Box:  - ::SejiroKatana]
+X=248
+Y=40
+
+[Box:  - ::util]
+X=1618
+Y=465
+
+[Box:  - ::Weapon]
+X=626
+Y=380
+
+[Diagram: ]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=1
+
